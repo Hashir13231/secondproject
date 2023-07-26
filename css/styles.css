@@ -1,0 +1,234 @@
+.top_container{
+    background-color: rgb(214, 228, 232);
+    /* height: 90%; */
+    height: 200%;
+    position: relative;
+    /* padding: 80px; */
+    margin-top: 0;
+    padding-top: 30px;
+    /* padding-bottom: 50px; */
+    /* margin-bottom: 50px; */
+    /* text */
+     
+}
+
+.middle_container{
+    /* background-color: rgb(159, 23, 23); */
+    background-color: #eef6f6;
+    /* height:200px; */
+    /* width:200px; */
+    margin: 0 0 0 0;
+    position: relative;
+    padding-bottom: 40px;
+}
+
+
+body{
+    margin: 0px;
+    text-align: center;
+    /* font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif; */
+    font-family: 'Merriweather', serif;
+
+
+}
+
+/* element.style{
+    margin-bottom: 0px;
+    margin-top: 0px;
+} */
+
+h1{
+    margin-top: 0;
+    width: 50%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    /* font-size: 100%; */
+    /* or margin: 0 auto; */
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    height:100px;
+    width:250px;
+    /* position: relative;
+    left:250px;
+    top:10px; */
+    position: absolute;
+    right:150px;
+    top:50px;
+}
+
+.bottom-cloud{
+    height:100px;
+    width:250px;
+    position: absolute;
+    left:200px;
+    bottom:280px;
+    
+
+}
+
+.mountain{
+    
+    position: relative;
+    top:20px;
+    height:300px;
+   
+}
+
+h2{
+    font-size: 2rem;
+    margin-top: 0px;
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: 'Merriweather', serif;
+}
+
+
+.bottom_container{
+    /* clear:left; */
+    width: 100%;
+    padding-top: 30px;
+    background-color: #66BFBF;
+    padding-bottom: 40px;
+}
+
+.pfp{
+    border-radius: 50%;
+    height:175px;
+    width:175px;
+    margin: 0 0 25px 0;
+}
+
+.about-me{
+    padding:50px;
+}
+
+.intro{
+    width:40%;
+    margin: auto;
+    color:#40514E;
+    font-family: 'Merriweather', serif;
+}
+
+hr{
+    border: dotted #a7d1d1 6px;
+    border-bottom: none;
+    width: 4%;
+    margin:0 auto;
+    padding: 0 auto;
+    clear: right;
+
+    
+}
+
+.startskills{
+    padding-top: 50px;
+    /* background-color: red; */
+}
+
+.development{
+    height: 80px;
+    width: 80px;
+    float: left;
+    position: relative;
+    left:280px;
+    top:80px;
+    /* padding-bottom: 50px; */
+    /* bottom: 0px; */
+    /* top:1000x; */
+
+}
+
+p{
+    width:40%;
+    margin: auto;
+    color:#40514E;
+    font-family: 'Merriweather', serif;
+    /* display: inline-block; */
+    padding: 0;
+    /* padding-bottom: 25px; */
+}
+
+h3{
+    color: #217c7c;
+    width: 30%;
+    /* text-align: center; */
+    margin: 0 auto 20px auto;
+    padding: 20px;
+    clear: right;
+}
+
+.gamepad{
+    height: 80px;
+    width: 80px;
+    float: right;
+    /* position: absolute; */
+    position: relative;
+    /* bottom:0px; */
+    bottom: 10px;
+    right:280px;
+    /* margin: 0; */
+}
+
+.test{
+    clear:right;
+    margin: 0 0 25px 0;
+}
+.break{
+    margin:50px auto;
+}
+
+.btn {
+    background: #69d6c6;
+    background-image: -webkit-linear-gradient(top, #69d6c6, #2980b9);
+    background-image: -moz-linear-gradient(top, #69d6c6, #2980b9);
+    background-image: -ms-linear-gradient(top, #69d6c6, #2980b9);
+    background-image: -o-linear-gradient(top, #69d6c6, #2980b9);
+    background-image: linear-gradient(to bottom, #69d6c6, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Merriweather', serif;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    /* margin: 100px 0 0 0; */
+    text-decoration: none;
+    position: relative;
+    bottom: 10px;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .bye{
+    padding-top: 30px;
+  }
+
+  .footer-link{
+    color: #d0dbda;
+    padding: 40px;
+    /* padding-top: 50px; */
+  }
+
+  .a{
+    padding-top: 20px;
+    
+  }
+
+  a:hover{
+    color: white;
+  }
